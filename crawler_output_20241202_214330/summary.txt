@@ -1,0 +1,9 @@
+
+Crawling Summary
+---------------
+Start URL: https://www.ouellet.com/fr-ca/
+Total URLs: 403
+Pages Processed: 391
+Total Files Downloaded: 686
+Duration: 266.55 seconds
+Status: Completed successfully
